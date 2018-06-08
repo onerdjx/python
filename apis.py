@@ -1,4 +1,5 @@
 print("hello word")
 print("daitoue")
 print("xiediandongxi")
-pring("lishishenmolian")
+print("lishishenmolian")
+print("this is a client")
